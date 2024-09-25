@@ -1,6 +1,6 @@
 {
     "name" : "wm_sass_uniCloud",
-    "appid" : "__UNI__273F351",
+    "appid" : "__UNI__6DE975E",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -50,7 +50,7 @@
     "quickapp" : {},
     /* 小程序特有相关 */
     "mp-weixin" : {
-        "appid" : "",
+        "appid" : "wx4d7854fbdec7a3e2",
         "setting" : {
             "urlCheck" : false
         },

@@ -1,0 +1,7 @@
+{
+  "name": "cftest",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index1/index",
+    "pages/index2/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "PingTanGift",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "rpxCalcMaxDeviceWidth": 960,
+    "rpxCalcBaseDeviceWidth": 375,
+    "rpxCalcIncludeWidth": 750
+  },
+  "tabBar": {
+    "borderStyle": "white",
+    "backgroundColor": "#fff",
+    "color": "#000000",
+    "selectedColor": "#07C160",
+    "list": [
+      {
+        "iconPath": "static/tabBar/icon1.png",
+        "selectedIconPath": "static/tabBar/icon11.png",
+        "text": "",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "iconPath": "static/tabBar/icon2.png",
+        "selectedIconPath": "static/tabBar/icon22.png",
+        "text": "",
+        "pagePath": "pages/index1/index"
+      },
+      {
+        "iconPath": "static/tabBar/icon3.png",
+        "selectedIconPath": "static/tabBar/icon33.png",
+        "text": "",
+        "pagePath": "pages/index2/index"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
