@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),t={data:()=>({title:"PTG2"}),onLoad(){},methods:{}};const o=e._export_sfc(t,[["render",function(t,o,r,d,n,a){return{a:e.t(n.title)}}],["__scopeId","data-v-77d5ed21"]]);wx.createPage(o);
